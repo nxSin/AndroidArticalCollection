@@ -1,2 +1,3 @@
 # AndroidArticalCollection
-Article of Android Collection
+
+Android 项目开发相关文章收集
