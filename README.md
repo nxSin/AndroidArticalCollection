@@ -1,6 +1,6 @@
-# AndroidArticalCollection
+# NxSinBlog
 
-Android 项目开发相关文章及其他收集
+记录博客
 
-
+### Android:
 #### 一：[Android经纬度获取demo](https://github.com/nxSin/LocationAndroidDemo)
