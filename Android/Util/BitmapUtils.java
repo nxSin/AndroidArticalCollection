@@ -8,7 +8,7 @@ import android.util.Log;
 import java.io.ByteArrayOutputStream;
 
 /**
- * @author shixin
+ * @author xin
  * bitmap工具类
  * 1. {@link #decodeSampledBitmapFromResource}提供从资源文件加载图片为bitmap，根据控件大小来压缩，以节省不必要的内存
  * 2. {@link #bitmap2Byte 将bitmap转为byte数组,不压缩}

@@ -1,8 +1,8 @@
-package com.pointercn.smarthouse.zzw.commonlib.util;
+package com.time.util;
 
 import android.text.TextUtils;
 
-import com.pointercn.smarthouse.zzw.commonlib.constant.TimeConstants;
+import com.timeutil.TimeConstants;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -12,14 +12,8 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/08/02
- *     desc  : 时间相关工具类
- * </pre>
+ * 时间相关工具类
  */
-
 public final class TimeUtils {
     /**
      * <p>在工具类中经常使用到工具类的格式化描述，这个主要是一个日期的操作类，所以日志格式主要使用 SimpleDateFormat的定义格式.</p>
@@ -526,7 +520,7 @@ public final class TimeUtils {
     /**
      * 获取当前时间分钟
      * <p>格式为HHmm</p>
-     * shixin
+     * xin
      *
      * @return 时间分钟字符串 如：2233
      */
